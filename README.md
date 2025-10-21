@@ -23,22 +23,7 @@ It is the short-circuit current through the load terminals. i.e., IN = Isc
 Norton’s Resistance, RN:It is the look-back resistance across the load terminals when all the sources are replaced by their internal resistances. An ideal voltage source is replaced by short- circuiting as its internal resistance is zero. An ideal current source is replaced by open- circuiting as its internal resistance is infinity.
  
 **CIRCUIT DIAGRAM: VERIFICATION OF NORTON’S THEOREM**
-
-**To measure IL**
-
-
-**To measure RTh or RN**
-
-
-
-**To measure IN or Isc**
-
- 
-**Thevenin’s equivalent circuit**
-
-
-**Norton’s equivalent circuit**
-
+![WhatsApp Image 2025-10-21 at 14 18 49_e06d6223](https://github.com/user-attachments/assets/4845ec18-ede8-4acd-a730-6b2819531635)
 
 **PROCEDURE:**
 
@@ -72,12 +57,16 @@ Norton’s Resistance, RN:It is the look-back resistance across the load termina
 
 **TABULAR COLUMN: 1**
 To measure I L
+![WhatsApp Image 2025-10-21 at 14 29 49_8dd40cea](https://github.com/user-attachments/assets/164133ed-ee26-4ffe-845b-c9916eb06df3)
+
 
 Vi (volts)	IL (amps)
 
 **TABULAR COLUMN:2**
 
 To measure RTh or RN
+![WhatsApp Image 2025-10-21 at 14 30 07_cc97b1a9](https://github.com/user-attachments/assets/3fd25f26-d961-4257-8144-28cefbe863aa)
+
 
 Vi (volts)	RTh (Ω)
 
@@ -85,19 +74,29 @@ Vi (volts)	RTh (Ω)
 **TABULAR COLUMN:3**
 
 To measure IN or Isc
+![WhatsApp Image 2025-10-21 at 14 30 21_e315c1ff](https://github.com/user-attachments/assets/e67f7779-7a6f-4f3a-a6ff-0bb8a0603455)
+
 
 Vi (volts)	IN (amps)
 	
 **MODEL CALCULATION:**
 
-Practical value of IL (from tabulation 1) =2.3mA
+![WhatsApp Image 2025-10-21 at 14 25 05_c37cf98c](https://github.com/user-attachments/assets/ab0fd8a0-8b9f-4637-8d27-2d24b3443dab)
+
+
+Practical value of IL (from tabulation 1) =2.8mA
 
 **Verification of Norton’s theorem**
 
-IL = IN * RN / ( RN+ RL ) = 2.43mA
+![WhatsApp Image 2025-10-21 at 14 18 48_553ba088](https://github.com/user-attachments/assets/5c46ca9d-02ce-415d-8660-f73b288e2d4c)
 
-Theoretical calculation of IL ,IN and RTh(RN) for the given circuit:
- 
+
+IL = IN * RN / ( RN+ RL ) = 2.75mA
+
+**MARKS SPLIT UP:**
+
+![WhatsApp Image 2025-10-21 at 14 18 49_b43c41c8](https://github.com/user-attachments/assets/bbde9d0e-a4a1-4015-8753-a078dbddbf90)
+
 
 
 **RESULT:**

@@ -23,21 +23,7 @@ It is the short-circuit current through the load terminals. i.e., IN = Isc
 Norton’s Resistance, RN:It is the look-back resistance across the load terminals when all the sources are replaced by their internal resistances. An ideal voltage source is replaced by short- circuiting as its internal resistance is zero. An ideal current source is replaced by open- circuiting as its internal resistance is infinity.
  
 **CIRCUIT DIAGRAM: VERIFICATION OF NORTON’S THEOREM**
-
-**To measure IL**
-
-
-**To measure RTh or RN**
-
-
-
-**To measure IN or Isc**
-
- 
-**Thevenin’s equivalent circuit**
-
-
-**Norton’s equivalent circuit**
+![WhatsApp Image 2025-10-21 at 14 18 49_ede69b16](https://github.com/user-attachments/assets/42f94560-ffcc-4f17-bece-1841015ef2a5)
 
 
 **PROCEDURE:**
@@ -70,34 +56,18 @@ Norton’s Resistance, RN:It is the look-back resistance across the load termina
 
 12.	Theoretically verify the Norton’s theorem.
 
-**TABULAR COLUMN: 1**
-To measure I L
+**TABULAR COLUMN:**
+![WhatsApp Image 2025-10-21 at 14 18 48_49df53f9](https://github.com/user-attachments/assets/55e60364-0b2e-4ab6-a4fb-f94b74bb153f)
 
-Vi (volts)	IL (amps)
-
-**TABULAR COLUMN:2**
-
-To measure RTh or RN
-
-Vi (volts)	RTh (Ω)
-
-
-**TABULAR COLUMN:3**
-
-To measure IN or Isc
-
-Vi (volts)	IN (amps)
-	
 **MODEL CALCULATION:**
+![WhatsApp Image 2025-10-21 at 14 25 05_2e9f3392](https://github.com/user-attachments/assets/b786c825-485b-4d09-b52e-bbaefe890ce9)
+![WhatsApp Image 2025-10-21 at 14 18 48_e3729556](https://github.com/user-attachments/assets/2b41b09c-0af9-4732-9e72-498b78b3f52c)
 
-Practical value of IL (from tabulation 1) =2.3mA
+**MARKS SPLIT UP:**
+![WhatsApp Image 2025-10-21 at 14 18 49_ae5c55c1](https://github.com/user-attachments/assets/86e56fad-9432-4e4a-b317-70ce83ba7318)
 
-**Verification of Norton’s theorem**
 
-IL = IN * RN / ( RN+ RL ) = 2.43mA
 
-Theoretical calculation of IL ,IN and RTh(RN) for the given circuit:
- 
 
 
 **RESULT:**
